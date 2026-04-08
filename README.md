@@ -36,12 +36,6 @@ Using **Python** and **Pandas**, I transformed raw survey data into actionable i
 * **Gender Trends:** Analysis revealed distinct patterns in how different genders experience "Social Comparison" and "Validation Seeking."
 * **Sleep Impact:** Significant evidence suggests that heavy social media usage is a leading factor in reported sleep issues among respondents.
 
----
-
-## How to Use This Repository
-1.  **[Analysis Notebook](./Project3final.ipynb):** View the full Python code and step-by-step analytical logic.
-2.  **[Interactive Report (HTML)](./Project3final.html):** A clean, ready-to-view version of the results and visualizations.
-3.  **[Dataset](./Social_Media_Mental_Health.csv):** The raw survey data used for this research.
 
 ---
 
